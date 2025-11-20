@@ -1,6 +1,6 @@
 # NIYAMR AI - PDF Rule Checker
 
-A premium full-stack web application that uploads PDFs and checks them against user-defined rules using AI.
+A  full-stack web application that uploads PDFs and checks them against user-defined rules using AI.
 
 ## 🚀 Features
 
@@ -208,4 +208,4 @@ This is an assignment project. For questions or improvements, please contact the
 
 ---
 
-**Built with ❤️ for NIYAMR AI Assignment**
+**Built with ❤️ for NIYAMR **
