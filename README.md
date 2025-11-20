@@ -202,10 +202,6 @@ PORT=3001
 
 This project is for demonstration purposes as part of the NIYAMR AI assignment.
 
-## 🤝 Contributing
-
-This is an assignment project. For questions or improvements, please contact the development team.
-
 ---
 
 **Built with ❤️ for NIYAMR **
